@@ -10,6 +10,7 @@ There are a few things we expect to see:
 ##### [vendor_aokp](https://github.com/AOKP/vendor_aokp)
 ```
 Our vendor will need a new .mk file for your device along with the other apprpriate edits to the products folder.
+Your device must be added to vendorsetup.sh for nightlies to run for it!
 ```
 [Example](https://github.com/AOKP/vendor_aokp/commit/4e45c7351eb49561283080dd94c311e27f61dd8d)
 
@@ -31,6 +32,8 @@ All device repos to be forked to our Github should be linked in the commit messa
 All repos added to the manifest must follow our alphabetical and grouping scheme.
 Please link all related submissions in this commit as well.
 ```
+
+##### We expect to see *proper commit authrship and credit*!
 
 ##### The extras, such as the related submissions and links to projects to be forked will be editted out just before merging.
 
