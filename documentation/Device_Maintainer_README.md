@@ -35,7 +35,7 @@ Please link all related submissions in this commit as well.
 
 ##### *We expect to see proper commit authrship and credit*!
 
-##### The extras, such as the related submissions and links to projects to be forked will be editted out just before merging.
+##### Note: The extras, such as the related submissions and links to projects to be forked will be editted out just before merging.
 
 ***
 
